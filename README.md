@@ -1,8 +1,8 @@
-#Tibian Table
+# Tibian Table
 
 Tibian Table is a planning tool for tibia players. aims to optimize and enhance your gaming experience based on your own player profile.
 
-####PROJECT STRUCTURE
+#### PROJECT STRUCTURE
 
 
 **bin**: The output executables go here, both for the app and for any tests and spikes.
